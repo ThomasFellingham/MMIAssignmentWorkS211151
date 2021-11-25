@@ -1,0 +1,11 @@
+{
+  "name": "MMIAssignmentWorkS211151",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ThomasFellingham/MMIAssignmentWorkS211151.git",
+  "author": "ThomasFellingham <s211151@uos.ac.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
