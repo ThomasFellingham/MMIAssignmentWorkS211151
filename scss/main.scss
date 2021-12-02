@@ -1,11 +1,33 @@
+// Abstracts
+@import "abstracts/variables";
+
+// Vendors
+@import "vendors/bootstrap";
+
+// Base
+
+// Layout
+@import "layout/header";
+@import "layout/navigation";
+
+// Components
+
+// Pages
+
+// Themes
+@import "themes/theme";
+
 nav {
-    nav .navbar-brand { 
+    .navbar-brand { 
         font-family: 'Cinzel', serif;
         font-weight: bold;
 
     }
 
-    nav .nav-item {
+    .nav-item {
         font-family: 'Cinzel', serif;
+    }
+    ul li a i {
+        margin-right: 10px;
     }
 }

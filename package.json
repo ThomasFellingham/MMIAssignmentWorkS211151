@@ -6,6 +6,7 @@
   "author": "ThomasFellingham <s211151@uos.ac.uk>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^5.1.3"
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
   }
 }
